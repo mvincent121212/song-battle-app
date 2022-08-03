@@ -1,0 +1,3 @@
+[submodule "client/song-battle-app"]
+	path = client/song-battle-app
+	url = https://github.com/mvincent121212/song-battle-app.git
